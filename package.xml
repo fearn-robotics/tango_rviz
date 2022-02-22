@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>tango_rviz</name>
-  <version>1.0.0</version>
-  <description>The tango_rviz package</description>
-  <maintainer email="keiranburrows@hotmail.co.uk">Dr Keiran Burrows</maintainer>
-  <author email="keiranburrows@hotmail.co.uk">Dr Keiran Burrows</author>
-  <license>BSD</license>
+  <version>2.0.0</version>
+  <description>The tango_rviz package displays the robot status and sensors inside ROS RVIZ</description>
+  <maintainer email="robotics@fearn.org.uk">Tomos Fearn</maintainer>
+  <license>BSD-3</license>
+  <url type="repository">https://github.com/fearn-robotics/tango_rviz</url>
+  <author email="robotics@fearn.org.uk">Tomos Fearn</author>
 
   <!--   <build_depend>message_generation</build_depend> -->
   <!--   <exec_depend>message_runtime</exec_depend> -->
